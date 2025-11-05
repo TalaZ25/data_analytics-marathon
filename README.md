@@ -1,4 +1,4 @@
-# data_analytics-marathon
+# data-analytics-marathon
 
 This is a learning project from a Data Analytics Marathon.  
 The main goal was to practice SQL queries and data exploration using **Google BigQuery**.
