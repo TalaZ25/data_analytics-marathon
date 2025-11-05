@@ -1,0 +1,1 @@
+day1_intro_sql_bigquery.md
